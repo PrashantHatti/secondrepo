@@ -1,3 +1,4 @@
 Second file
+Added new line
 
 
